@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//com/key/CipherUtil.java=UTF-8
+encoding//com/key/Des.java=UTF-8
+encoding//com/key/DesEncryptor.java=UTF-8
+encoding//com/key/Encryptor.java=UTF-8
+encoding//com/key/KeyFinder.java=UTF-8
+encoding//com/key/MacEncrypt.java=UTF-8
+encoding//com/utils/MessageUtil.java=UTF-8
+encoding//com/utils/SignUtils.java=UTF-8
